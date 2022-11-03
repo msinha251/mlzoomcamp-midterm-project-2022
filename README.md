@@ -1,6 +1,6 @@
 ## Midterm Project - Spaceship Titanic
 
-In this project we are predicting whether a passenger was transported to an alternate dimension during the Spaceship Titanic's collision with the spacetime anomaly. To help you make these predictions, you're given a set of personal records recovered from the ship's damaged computer system.
+In this project we are building and API for predicting whether a passenger was transported to an alternate dimension during the Spaceship Titanic's collision with the spacetime anomaly. To help you make these predictions, you're given a set of personal records recovered from the ship's damaged computer system.
 
 ### Data
 
@@ -60,4 +60,5 @@ pipenv run python -m uvicorn main:app
 
 #### 6. Test from the browser
 ![example_post_api](./images/example_post_api.png)
+
 
