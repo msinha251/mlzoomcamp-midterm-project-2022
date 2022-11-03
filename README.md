@@ -2,6 +2,9 @@
 
 In this project we are building and API for predicting whether a passenger was transported to an alternate dimension during the Spaceship Titanic's collision with the spacetime anomaly. To help you make these predictions, you're given a set of personal records recovered from the ship's damaged computer system.
 
+Prediction API is available at: https://mlzoomcamp-midterm-project.herokuapp.com/
+
+
 ### Data
 
 Data is available in the `data` folder. The `train.csv` file contains the training set.
